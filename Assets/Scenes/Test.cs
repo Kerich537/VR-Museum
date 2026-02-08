@@ -2,8 +2,12 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    public void Tester(int num)
+    public void HelloTechnopark()
     {
-        print("");
+        print("Hello Technopark");
+    }
+    public void GoodbyeTechnopark()
+    {
+        print("Goodbye Technopark");
     }
 }
